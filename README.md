@@ -14,9 +14,7 @@ The Snowflake Usage report is Powerful page used for operations management to tr
 ·        What is my current monthly cost?
 ·        How is my cost tracking for the year?
 ·        Where are the credits being consumed (warehouse, times of day, day of week)?
-No alt text provided for this image
-Query Performance
-The Query performance page takes a looks at how queries are being used in Snowflake. This is an important Users using this dashboard will understand
+
 
 ·        What Queries are taking the longest?
 
@@ -26,9 +24,7 @@ The Query performance page takes a looks at how queries are being used in Snowfl
 
 ·        What Query types are taking the longest to run.
 
-No alt text provided for this image
-Users Details
-The User Details dashboard focuses on the number of unique users connecting to snowflake and checking the individual users for any issues facing in logging on or executing errors
+
 
 The focus of this Dashboard is to:
 
@@ -38,5 +34,5 @@ The focus of this Dashboard is to:
 
 ·        User related errors – Do any users need assistance in queries
 
-No alt text provided for this image
-Please reach out for more information on the dashboard.# snowflake
+
+# snowflake
